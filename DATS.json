@@ -75,7 +75,8 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "http://www.brainspan.org/static/download.html"
+				"landingPage": "http://www.brainspan.org/static/download.html",
+				"annotation": "public"
 			}
 		}
 	],
