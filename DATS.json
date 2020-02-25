@@ -104,6 +104,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "RNA-Seq Gencode v10 summarized to exons",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/267666524",
 				"description": "Zipped .csv file"
@@ -121,6 +133,18 @@
 					"information": {
 						"value": "developmental transcriptome"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "RNA-Seq Gencode v10 summarized to genes",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -142,6 +166,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Exon microarray summarized to probe sets",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/267666526",
 				"description": "Zipped .csv file"
@@ -159,6 +195,18 @@
 					"information": {
 						"value": "developmental transcriptome"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Exon microarray summarized to genes",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -180,6 +228,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Zipped .csv and .txt files",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/278442900",
 				"description": "Zipped .csv and .txt files"
@@ -197,6 +257,18 @@
 					"information": {
 						"value": "prenatal LMD microarray"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Zipped .csv and .txt files",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -218,6 +290,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Zipped .csv and .txt files",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/278444090",
 				"description": "Zipped .csv and .txt files"
@@ -235,6 +319,18 @@
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "Zipped .csv and .txt files",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -256,6 +352,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "17 pcw annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780794",
 				"description": "Zipped .vtk files"
@@ -273,6 +381,18 @@
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "19 pcw annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -294,6 +414,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "37 pcw annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780825",
 				"description": "Zipped .vtk files"
@@ -311,6 +443,18 @@
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "3 yrs annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -332,6 +476,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "8 yrs annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780878",
 				"description": "Zipped .vtk files"
@@ -349,6 +505,18 @@
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "15 yrs annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -370,6 +538,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "32 yrs annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780920",
 				"description": "Zipped .vtk files"
@@ -387,6 +567,18 @@
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "14 pcw annotation: structures",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
@@ -408,6 +600,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "17 pcw annotation: structures",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780796",
 				"description": "Zipped .vtk files"
@@ -427,6 +631,18 @@
 					}
 				}
 			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "19 pcw annotation: fiber tracts",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
+				}
+			],
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780813",
 				"description": "Zipped .vtk files"
@@ -444,6 +660,18 @@
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
+				}
+			],
+			"keywords": [
+				{
+					"value" : "genomics"
+				}
+			],
+			"version": "1.0.0",
+			"description": "37 pcw annotation: structures",
+			"licenses": [
+				{
+					"name": "BY-NC-SA"
 				}
 			],
 			"storedIn": {
