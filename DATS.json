@@ -68,7 +68,7 @@
 	"distributions": [
 	        {
 			"formats": [
-				"csv"
+				".CSV"
             		],
 			"size" : 1.74,
 		        "unit" : {
