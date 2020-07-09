@@ -75,7 +75,7 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "http://www.brainspan.org/static/download.html",	
+				"landingPage": "http://www.brainspan.org/static/download.html",
 				"authorizations": [
 					{
 						"value": "public"
@@ -109,6 +109,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 413,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "RNA-Seq Gencode v10 summarized to exons",
 			"licenses": [
@@ -138,6 +157,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 60.7,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -171,6 +209,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 364,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Exon microarray summarized to probe sets",
 			"licenses": [
@@ -200,6 +257,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 28.2,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -233,6 +309,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 156,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Zipped .csv and .txt files",
 			"licenses": [
@@ -262,6 +357,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 162,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -295,6 +409,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 148,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "Zipped .csv and .txt files",
 			"licenses": [
@@ -324,6 +457,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 2.50,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -357,6 +509,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 8.66,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "17 pcw annotation: fiber tracts",
 			"licenses": [
@@ -386,6 +557,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 18.4,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -419,6 +609,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 6.50,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "37 pcw annotation: fiber tracts",
 			"licenses": [
@@ -448,6 +657,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 26.9,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -481,6 +709,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 51.1,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "8 yrs annotation: fiber tracts",
 			"licenses": [
@@ -510,6 +757,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 56.2,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -543,6 +809,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 59.6,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "32 yrs annotation: fiber tracts",
 			"licenses": [
@@ -572,6 +857,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 7.67,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
@@ -605,6 +909,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 8.59,
+		        	"unit" : {
+            				"value": "GB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "17 pcw annotation: structures",
 			"licenses": [
@@ -636,6 +959,25 @@
 					"value" : "genomics"
 				}
 			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 7.71,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
+				}
+			],
 			"version": "1.0.0",
 			"description": "19 pcw annotation: fiber tracts",
 			"licenses": [
@@ -665,6 +1007,25 @@
 			"keywords": [
 				{
 					"value" : "genomics"
+				}
+			],
+			"distributions": [
+	    	    {
+					"formats": [
+						".CSV"
+            		],
+					"size" : 4.02,
+		        	"unit" : {
+            				"value": "MB"
+		        	},
+					"access": {
+						"landingPage": "http://www.brainspan.org/static/download.html",
+						"authorizations": [
+							{
+								"value": "public"
+							}
+						]
+					}
 				}
 			],
 			"version": "1.0.0",
