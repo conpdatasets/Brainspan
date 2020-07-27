@@ -138,7 +138,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/267666524",
 				"description": "Zipped .csv file"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"RNA-Seq Gencode v10 summarized to genes",
@@ -188,7 +214,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/267666525",
 				"description": "Zipped .csv file"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"Exon microarray summarized to probe sets",
@@ -238,7 +290,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/267666526",
 				"description": "Zipped .csv file"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"Exon microarray summarized to genes",
@@ -288,7 +366,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/267666527",
 				"description": "Zipped .csv file"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"H376.IIIA.02, male, 15 pcw",
@@ -338,7 +442,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/278442900",
 				"description": "Zipped .csv and .txt files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"H376.IIIB.02, female, 16 pcw",
@@ -388,7 +518,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/278444085",
 				"description": "Zipped .csv and .txt files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"H376.IV.02, female, 21 pcw",
@@ -438,7 +594,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/278444090",
 				"description": "Zipped .csv and .txt files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"14 pcw annotation: fiber tracts",
@@ -488,7 +670,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780755",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"17 pcw annotation: fiber tracts",
@@ -538,7 +746,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780794",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"19 pcw annotation: fiber tracts",
@@ -588,7 +822,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780811",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"37 pcw annotation: fiber tracts",
@@ -638,7 +898,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780825",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"3 yrs annotation: fiber tracts",
@@ -688,7 +974,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780835",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"8 yrs annotation: fiber tracts",
@@ -738,7 +1050,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780878",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"15 yrs annotation: fiber tracts",
@@ -788,7 +1126,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780893",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"32 yrs annotation: fiber tracts",
@@ -838,7 +1202,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780920",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"14 pcw annotation: structures",
@@ -888,7 +1278,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780757",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"17 pcw annotation: structures",
@@ -938,7 +1354,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780796",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"19 pcw annotation: structures",
@@ -988,7 +1430,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780813",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		},
 		{
 			"title":"37 pcw annotation: structures",
@@ -1038,7 +1506,33 @@
 			"storedIn": {
 				"name": "http://brainspan.org/api/v2/well_known_file_download/157780827",
 				"description": "Zipped .vtk files"
-			}
+			},
+			"extraProperties": [
+				{
+					"category": "CONP_status",
+					"values": [
+						{
+							"value": "external"
+						}
+					]
+				},
+				{
+					"category": "files",
+					"values": [
+						{
+							"value": "26"
+						}
+					]
+				},
+				{
+					"category": "subjects",
+					"values": [
+						{
+							"value": "4"
+						}
+					]
+				}
+			]
 		}
 	],
 	"extraProperties": [
