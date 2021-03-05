@@ -4,7 +4,7 @@
 		"identifierSource": "DOI"
 	},
 	"version": "1.0.0",
-	"privacy": "public open",
+	"privacy": "public",
 	"licenses": [
 		{
 			"name": "https://alleninstitute.org/legal/terms-use/"
